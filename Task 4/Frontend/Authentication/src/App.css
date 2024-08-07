@@ -1,0 +1,11 @@
+*body{
+    height: 100vh;
+    background: #000;
+    color: white;
+}
+
+.contain{
+    /* background: #000; */
+    height: 30px;
+}
+
